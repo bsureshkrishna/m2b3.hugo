@@ -3,7 +3,7 @@ widget: hero
 widget_id: firstedit
 headless: true
 weight: 10
-title: m2b3.lab@McGill
+title: 
 hero_media: 
 design:
   columns: "1"
