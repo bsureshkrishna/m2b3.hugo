@@ -4,7 +4,7 @@ widget_id: firstedit
 headless: true
 weight: 10
 title: m2b3.lab@McGill
-hero_media: welcome.jpg
+hero_media: 
 design:
   columns: "1"
   css_style: null
